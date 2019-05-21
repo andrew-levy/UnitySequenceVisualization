@@ -6,7 +6,7 @@ public class Sequence : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        
+        // adding comment
         transform.position = new Vector3(0, 0, 10);
 	}
 	
